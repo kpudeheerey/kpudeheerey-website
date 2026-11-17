@@ -1,6 +1,6 @@
 # kpudeheerey.ca
 
-Website for **@kpu_de_heerey**. It's a plain static site with no build step. Netlify publishes whatever is on the `main` branch.
+Website for **@kpu_de_heerey**, live at https://kpudeheerey.ca. It's a plain static site with no build step. Netlify publishes whatever is on the `main` branch.
 
 ## Files
 
